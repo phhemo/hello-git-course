@@ -1,5 +1,3 @@
 print("Hello world!")
-<<<<<<< HEAD
 print("Hello from feature")
-=======
->>>>>>> upstream/master
+print("Hello from release")
